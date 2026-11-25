@@ -392,3 +392,9 @@ Conclui-se que a prevenção depende da adoção de boas práticas, como senhas 
 A segurança da informação não depende apenas de identificar vulnerabilidades, mas também de compreender como preveni-las e proteger os sistemas.
 
 Projeto desenvolvido para fins educacionais – Desafio DIO.
+
+Evidências Demonstrativas
+
+Abaixo está um painel ilustrativo dos cenários abordados neste projeto.
+
+![Painel demonstrativo do laboratório](image.png)
